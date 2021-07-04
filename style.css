@@ -1,0 +1,30 @@
+.tahid{
+    color: rgb(253, 142, 7);
+    
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.link-button{
+    background-color:rgb(240, 204, 114);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 40px;
+    color: black;
+    font-weight: 700;
+}
+.section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(jhankar/top-banner.png);
+    background-repeat: no-repeat;
+}
